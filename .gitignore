@@ -1,0 +1,8 @@
+# optimization files
+__pycache__
+
+# environments
+.venv
+
+# database
+*.db
