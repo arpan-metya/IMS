@@ -1,1 +1,1 @@
-# Inventory Management System Project
+# Inventory Management System GUI using customtkinter
